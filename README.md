@@ -1,7 +1,7 @@
 #═════════════════[ Light Level Checker ]═════════════════#
 
 > Ver_: 1.0.0
-> Languages: French, English
+> Language: French
 
 > Solo: Accpeted ✔
 > Multi: Accepted ✔
